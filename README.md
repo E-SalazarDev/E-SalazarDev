@@ -233,14 +233,47 @@ Actualmente estoy fortaleciendo mi formación en Inteligencia Artificial para co
 <tr>
 <td width="50%" valign="top">
 
-### Thincrs
-Plataforma de certificación basada en NFTs no transferibles, enfocada en autenticidad, validación y trazabilidad.
+### Resiliencia
+Desarrollo de aplicación móvil y plataforma CMS enfocada en educación ambiental, participación ciudadana y medición de impacto ecológico. Incluye módulos de noticias, calculadora ambiental, certificados y asistente tipo chatbot.
 
 </td>
+
+<td width="50%" valign="top">
+
+### Thincrs
+Plataforma de certificación basada en NFTs no transferibles (Soulbound Tokens), enfocada en autenticidad, validación pública y trazabilidad de certificados digitales.
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### Profunding
-Sistema KYC con validación documental, auditoría y automatización de flujos de verificación.
+Sistema KYC con validación documental, auditoría y automatización de flujos de verificación, integrando procesos de identidad, riesgo y cumplimiento.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Aplicación Móvil de Protección Civil
+Desarrollo backend, chatbot y sistema de monitoreo sísmico con integración a servicios externos (USGS), notificaciones automáticas y arquitectura basada en microservicios.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Sistema Judicial (Poder Judicial del Estado de Puebla)
+Desarrollo de sistema judicial con APIs REST, seguridad con Keycloak, frontend con React y pruebas unitarias para garantizar estabilidad y control de accesos.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Plataforma E-commerce Internacional (B2B)
+Desarrollo de plataforma mayorista para exportaciones, incluyendo gestión de catálogo, pedidos, usuarios y flujo completo de compra con validaciones y trazabilidad.
 
 </td>
 </tr>
