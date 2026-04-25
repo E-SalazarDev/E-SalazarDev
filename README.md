@@ -322,7 +322,7 @@ Aplicaciones completas con backend robusto, frontend moderno, autenticación y d
 
 <div align="center">
 
-<img width="82%" src="https://streak-stats.demolab.com?user=E-SalazarDev&theme=github_dark&hide_border=true&border_radius=18&ring=C2410C&fire=EA580C&currStreakLabel=FDE68A&currStreakNum=FDE68A" />
+<img width="82%" src="https://streak-stats.demolab.com?user=E-SalazarDev&theme=github_dark&hide_border=true&border_radius=18&ring=C2410C&fire=EA580C&currStreakLabel=FDE68A&currStreakNum=FDE68A&timezone=America/Mexico_City&cache_seconds=0" />
 
 </div>
 
