@@ -336,7 +336,7 @@ Aplicaciones completas con backend robusto, frontend moderno, autenticación y d
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=E-SalazarDev&bg_color=0B0F1A&color=EDE9FE&line=6D28D9&point=38BDF8&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=E-SalazarDev&bg_color=0B0F1A&color=EDE9FE&line=6D28D9&point=38BDF8&area=true&hide_border=true&timezone=America/Mexico_City" />
 
 </div>
 
