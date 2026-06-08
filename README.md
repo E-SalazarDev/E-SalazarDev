@@ -16,19 +16,15 @@
 
 <table>
 <tr>
-<td align="center" valign="middle" height="80">
-<a href="https://github.com/E-SalazarDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
 
-<td align="center" valign="middle" height="80">
-<a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-salazar-tecuapacho">
+
+<td align="center" valign="middle" height="80" width="200">
+<a href="https://www.linkedin.com/in/josé-eduardo-salazar-tecuapacho-a672791bb">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </td>
 
-<td align="center" valign="middle" height="80">
+<td align="center" valign="middle" height="80" width="200">
 <a href="mailto:eduardosalazartecuapacho@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
